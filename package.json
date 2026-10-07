@@ -1,0 +1,19 @@
+{
+  "name": "graph-demo",
+  "version": "1.0.0",
+  "author": "ipreencekmr",
+  "keywords": [
+    "graph",
+    "graphology",
+    "network",
+    "express",
+    "react",
+    "visualization"
+  ],
+  "scripts": { "start": "node server.js" },
+  "dependencies": {
+    "express": "^4.19.2",
+    "graphology": "^0.25.4",
+    "graphology-shortest-path": "^2.1.0"
+  }
+}
