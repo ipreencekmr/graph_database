@@ -2,6 +2,12 @@
 
 A small graph-based social network demo built with Express on the backend and React on the frontend. The app stores nodes and edges in memory using Graphology and lets you explore connections, shortest paths, and second-degree suggestions.
 
+
+<img width="999" height="723" alt="Screenshot 2026-10-07 at 10 37 13 PM" src="https://github.com/user-attachments/assets/edfd675d-ff9d-4222-be1b-b63e6c0888a9" />
+
+<img width="1042" height="666" alt="Screenshot 2026-10-07 at 10 36 44 PM" src="https://github.com/user-attachments/assets/6e7cf8e9-7e25-418a-a41d-6b533821998b" />
+
+
 ## Features
 
 - Add people to the graph
